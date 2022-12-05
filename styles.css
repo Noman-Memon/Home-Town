@@ -11,7 +11,8 @@ DARK BLUE: #1D3557
 body {
     margin: 0;
     text-align: center;
-    text-shadow: 0 0 1px black
+    text-shadow: 0 0 1px black;
+    
     /* width: auto; */
 }
 
@@ -51,6 +52,7 @@ img {
 .visits {
     margin: 0;
     background-color: #F1FAEE;
+    font-family: 'Courgette', cursive;
 }
 .images {
     display: flex;
@@ -75,6 +77,7 @@ h2 {
     border: 2px solid black;
     border-radius: 15px;
     box-shadow: 0px 6px 0px #214474;
+
 }
 .guide-img {
     margin: 5px;
